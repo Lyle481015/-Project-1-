@@ -106,7 +106,6 @@ Notebook 已內建本次鏡位設定及初始標籤，Run All 會重新訓練模
 
 ![停車場影像前處理四階段對照](parking_preprocessing.jpg)
 
-> 在 GitHub 顯示圖片時，請將 `parking_preprocessing.jpg` 與本 README 放在同一個資料夾。
 
 ### 結果影片
 
