@@ -112,7 +112,7 @@ Notebook 已內建本次鏡位設定及初始標籤，Run All 會重新訓練模
 
 將結果影片一併上傳到相同資料夾後，可透過以下連結查看或下載：
 
-[查看停車場空位辨識結果影片](parking_rbf_result.mp4)
+[查看停車場空位辨識結果影片](parking_rbf_result_github.mp4)
 
 也可以執行 Notebook，於最後的展示區塊查看播放器與結果截圖。
 
